@@ -112,5 +112,5 @@ Aspiring Data Analyst | Excel · SQL · Power BI · Python
 
 ---
 
-*This project is part of my data analyst portfolio. The dataset is fictional and created for educational and portfolio purposes.*
+
 
