@@ -3,8 +3,6 @@
 > An end-to-end Excel data analysis project simulating a real Pakistani retail business across 5 major cities — built to demonstrate professional-grade spreadsheet skills for a data analyst portfolio.
 
 ---
- ![image alt]https://github.com/bhakatkhush256-eng/Pakistan-retail-sales/blob/2d1d355556a07facf6ccd24e86b3d0bef1060404/banner.png
-
 
 
 
