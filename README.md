@@ -1,4 +1,4 @@
-# 🛍️ Lahore Retail Sales Dashboard — Q1 2025
+# 🛍️ Lahore Retail Sales 
 
 > An end-to-end Excel data analysis project simulating a real Pakistani retail business across 5 major cities — built to demonstrate professional-grade spreadsheet skills for a data analyst portfolio.
 
